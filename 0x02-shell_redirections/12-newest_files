@@ -1,2 +1,2 @@
 #!/bin/bash
-find /0x02-shell_redirections -type f -exec ls -tr1 {} + | head -10
+find 0x02-shell_redirections/ -type f -exec ls -tr1 {} + | head -10
